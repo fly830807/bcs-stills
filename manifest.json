@@ -1,0 +1,538 @@
+[
+ {
+  "file": "kim_work_01.webp",
+  "desc": "Kim，HHM辦公室落地窗前講電話，深色套裝，專注",
+  "suits": "辦公室/工作/電話",
+  "source": "File:BCS 1x10 5.jpg",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "kim_work_02.webp",
+  "desc": "Kim喺自己辦公枱同Jimmy傾嘢，套裝，認真",
+  "suits": "辦公室/工作/拍檔",
+  "source": "File:BCS 301 MS 1007 0460-935x658.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_work_03.webp",
+  "desc": "Kim喺會議枱睇文件，套裝，冷靜",
+  "suits": "辦公室/會議/客戶",
+  "source": "File:BCS 307 07.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "kim_work_04.webp",
+  "desc": "Kim喺HHM小格仔辦公，恤衫，埋頭苦幹",
+  "suits": "低潮/工作/捱夜",
+  "source": "File:Better-call-saul-episode-204-kim-seehorn-v2-935x658.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_work_05.webp",
+  "desc": "Kim喺Schweikart辦公室枱前，深色上衣，疲倦但專注",
+  "suits": "辦公室/工作",
+  "source": "File:BetterCallSaul 406 Season-4 Kim Wexler Rhea Seehorn 935x658.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_work_06.webp",
+  "desc": "Kim喺大廈露台拎住手機，背景城市街道，套裝",
+  "suits": "露台/電話/抉擇",
+  "source": "File:BCS 207 15.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "kim_court_01.webp",
+  "desc": "法庭內Kim同律師團，套裝，緊張",
+  "suits": "法庭/聆訊",
+  "source": "File:BCS 305 06.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "kim_court_02.webp",
+  "desc": "法庭全景，Kim喺律師席，正式",
+  "suits": "法庭/聆訊",
+  "source": "File:BCS 306 02.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "kim_court_03.webp",
+  "desc": "Kim坐喺法院旁聽席，周圍有人，套裝，冷淡",
+  "suits": "法院/等候/公設辯護",
+  "source": "File:BCS 504 Namaste.jpg",
+  "width": 640,
+  "height": 480
+ },
+ {
+  "file": "kim_court_04.webp",
+  "desc": "Kim喺法院走廊，套裝，果斷",
+  "suits": "法院/走廊",
+  "source": "File:BCS 407 14.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "kim_court_05.webp",
+  "desc": "Kim同Jimmy坐喺法庭律師席，深色套裝，嚴肅",
+  "suits": "法庭/拍檔",
+  "source": "File:Rhea-Seehorn-Kim-Wexler-Bob-Odenkirk-Jimmy-McGill-Better-Call-Saul-Season-4-935x658.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_jimmy_01.webp",
+  "desc": "Kim同Jimmy喺HHM停車場暗角，套裝，親密低聲",
+  "suits": "停車場/秘密/曖昧",
+  "source": "File:BCS 1x01 Jim and Kim.jpeg",
+  "width": 640,
+  "height": 397
+ },
+ {
+  "file": "kim_jimmy_02.webp",
+  "desc": "Kim攬住Jimmy，室內，溫柔",
+  "suits": "擁抱/安慰/浪漫（淡出）",
+  "source": "File:BCS 1x8 1.jpg",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "kim_jimmy_03.webp",
+  "desc": "Kim同Jimmy喺梳化傾偈，家居便服，輕鬆",
+  "suits": "家/閒聊/甜",
+  "source": "File:BCS 203 09.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "kim_jimmy_04.webp",
+  "desc": "Kim同Jimmy喺辦公室對話，Kim藍色恤衫，認真",
+  "suits": "辦公室/商量",
+  "source": "File:BCS 206 14.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "kim_jimmy_05.webp",
+  "desc": "Kim同Jimmy喺餐廳卡位，便服，商量",
+  "suits": "餐廳/計劃",
+  "source": "File:BCS 307 11.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "kim_jimmy_06.webp",
+  "desc": "Jimmy向Kim發脾氣，室內，緊張",
+  "suits": "爭執/衝突",
+  "source": "File:BCS 410 06.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "kim_jimmy_07.webp",
+  "desc": "Kim同Jimmy坐皮梳化，套裝，嚴肅對話",
+  "suits": "家/談判/心事",
+  "source": "File:Better-Call-Saul-Season-4 407 Kim-Wexler-Rhea-Seehorn-bob-odenkirk-jimmy-mcgill-saul-goodman 935x658.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_jimmy_08.webp",
+  "desc": "Kim同Jimmy喺公寓客廳，便服，日常",
+  "suits": "家/日常",
+  "source": "File:Better-Call-Saul-Season-4 406 Bob-Odenkirk Jimmy-McGill Saul-Goodman Kim-Wexler Rhea-Seehorn 935x658.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_work_07.webp",
+  "desc": "Kim喺玻璃大樓天井同同事傾，套裝",
+  "suits": "辦公室/大樓",
+  "source": "File:Better-call-saul-episode-409-kim-seehorn-2-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_home_02.webp",
+  "desc": "Kim着橙色上衣，室內暗燈，若有所思",
+  "suits": "家/心事",
+  "source": "File:Better-call-saul-episode-410-kim-seehorn-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_home_03.webp",
+  "desc": "Kim同Jimmy喺廚房食嘢，便服，溫馨",
+  "suits": "家/早餐/甜",
+  "source": "File:Better-Call-Saul-Season-4 403 Kim-Wexler-Rhea-Seehorn-Bob-Odenkirk-Jimmy-McGill-Saul-Goodman 935x658.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_home_04.webp",
+  "desc": "Kim喺廚房枱前同長者對話，便服，戒備",
+  "suits": "家/陌生人上門",
+  "source": "File:Kim meeting Mike.jpg",
+  "width": 640,
+  "height": 427
+ },
+ {
+  "file": "kim_car_01.webp",
+  "desc": "Kim喺公路邊推車/靠車，陰天，套裝，徬徨",
+  "suits": "車/公路/意外",
+  "source": "File:BCS 309 04.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "kim_court_06.webp",
+  "desc": "Kim同Jimmy喺法院走廊遇後生被告，套裝",
+  "suits": "法院/走廊/公設辯護",
+  "source": "File:BCS 405 04.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "kim_car_02.webp",
+  "desc": "Kim夜晚喺車旁，停車場，警覺",
+  "suits": "車/夜/危機",
+  "source": "File:BCS 506 01.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "kim_night_01.webp",
+  "desc": "Kim夜晚喺屋企睇電視，藍光照面，微笑",
+  "suits": "夜/家/電視廣告",
+  "source": "File:BCS 210 07.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "kim_night_02.webp",
+  "desc": "昏暗夜景，Kim身影模糊，心事重重",
+  "suits": "夜/獨處/低潮",
+  "source": "File:BCS 408 14.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "kim_night_03.webp",
+  "desc": "Kim夜晚喺昏暗辦公室，孤獨",
+  "suits": "夜/捱更/獨處",
+  "source": "File:BCS 409 16.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "kim_rooftop_01.webp",
+  "desc": "Kim喺高層露台講電話，俯瞰街道，套裝",
+  "suits": "露台/電話/獨處",
+  "source": "File:Kim on the rooftop.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "kim_smile_01.webp",
+  "desc": "Kim戶外微笑，日光，套裝",
+  "suits": "開心/好消息",
+  "source": "File:Better-call-saul-episode-103-kim-seehorn-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_smile_02.webp",
+  "desc": "Kim同年長客戶傾談微笑，戶外，藍上衣",
+  "suits": "客戶/銀行/開心",
+  "source": "File:Better-call-saul-episode-406-kim-seehorn-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_smile_03.webp",
+  "desc": "Kim同西裝客戶並肩微笑，辦公室",
+  "suits": "客戶/合作/開心",
+  "source": "File:Howard and Kim.jpeg",
+  "width": 640,
+  "height": 427
+ },
+ {
+  "file": "kim_smile_04.webp",
+  "desc": "Kim半身照，暖色牆前，套裝，淡定",
+  "suits": "肖像/自信",
+  "source": "File:Better-call-saul-episode-409-kim-seehorn-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_serious_01.webp",
+  "desc": "Kim特寫，暗燈室內，嚴肅",
+  "suits": "嚴肅/對質",
+  "source": "File:BCS 305 05.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "kim_serious_02.webp",
+  "desc": "Kim同Jimmy行過法院走廊，深色套裝",
+  "suits": "法院/走廊/決定",
+  "source": "File:BCS 410 19.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "kim_serious_03.webp",
+  "desc": "Kim企喺牆畫前，深色套裝，冷靜",
+  "suits": "辦公室/對峙",
+  "source": "File:BCS 410 22.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "kim_serious_04.webp",
+  "desc": "Kim宣傳肖像，黑背景，冷峻",
+  "suits": "肖像/嚴肅",
+  "source": "File:KimS1.jpg",
+  "width": 640,
+  "height": 437
+ },
+ {
+  "file": "kim_serious_05.webp",
+  "desc": "Kim宣傳肖像，藍套裝，平靜",
+  "suits": "肖像/封面",
+  "source": "File:Kim.jpg",
+  "width": 640,
+  "height": 480
+ },
+ {
+  "file": "kim_alone_01.webp",
+  "desc": "Kim企喺沙漠藍天下，深色套裝，孤單",
+  "suits": "沙漠/獨處/命運",
+  "source": "File:Better-call-saul-season-5 rhea-seehorn-kim-wexler 935x658.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "kim_acker_01.webp",
+  "desc": "Kim同Acker伯伯喺佢屋外對話，套裝，誠懇",
+  "suits": "Acker屋/勸說",
+  "source": "File:BCS 503 11.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "jimmy_01.webp",
+  "desc": "Jimmy喺城市街頭講電話，套裝",
+  "suits": "城市/電話",
+  "source": "File:Better-call-saul-episode-103-jimmy-odenkirk-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "jimmy_02.webp",
+  "desc": "Jimmy坐喺街邊，便服，失意",
+  "suits": "低潮/街頭",
+  "source": "File:Better-call-saul-episode-307-jimmy-odenkirk-4-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "jimmy_03.webp",
+  "desc": "Jimmy同人喺辦公室對話，套裝",
+  "suits": "辦公室/談判",
+  "source": "File:BCS 507 13.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "mike_01.webp",
+  "desc": "Mike喺Madrigal大樓，掛員工證",
+  "suits": "保安/公司",
+  "source": "File:B Hedberg (Mike) Madrigal BCS S04 E01.jpeg",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "mike_02.webp",
+  "desc": "Mike着反光背心拎文件，倉庫",
+  "suits": "工地/巡查",
+  "source": "File:BCS 401 08.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "mike_03.webp",
+  "desc": "Mike喺廢車場對住舊車，陽光",
+  "suits": "廢車場/交收",
+  "source": "File:Better-call-saul-episode-301-mike-banks-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "mike_04.webp",
+  "desc": "Mike室內近照，冷靜",
+  "suits": "對話/警告",
+  "source": "File:Better-call-saul-episode-205-mike-banks-3-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "nacho_01.webp",
+  "desc": "Nacho着皮褸同黃衫男人對峙，室內",
+  "suits": "對峙/威脅",
+  "source": "File:Better-call-saul-episode-304-gus-esposito-3-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "lalo_01.webp",
+  "desc": "Lalo喺快餐店同人傾，輕鬆但危險",
+  "suits": "餐廳/試探",
+  "source": "File:BCS 409 07.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "lalo_02.webp",
+  "desc": "Lalo坐車內，微笑",
+  "suits": "車/威脅",
+  "source": "File:BCS 506 14.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "gus_01.webp",
+  "desc": "Gus喺Los Pollos Hermanos，黃色制服員工旁",
+  "suits": "快餐店/偽裝",
+  "source": "File:Better-call-saul-episode-304-gus-esposito-2-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "gus_02.webp",
+  "desc": "Gus同人喺實驗室，套裝",
+  "suits": "實驗室/計劃",
+  "source": "File:Better-call-saul-episode-403-gus-esposito-4-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "howard_01.webp",
+  "desc": "HHM眾人喺大堂拍手，Howard喺中",
+  "suits": "HHM/慶祝/大堂",
+  "source": "File:Better-call-saul-episode-109-howard-fabian-sized-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "howard_02.webp",
+  "desc": "Howard近照，暗燈，嚴肅",
+  "suits": "HHM/壓力",
+  "source": "File:BCS 305 07.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "hector_01.webp",
+  "desc": "Hector同人喺餐廳卡位",
+  "suits": "餐廳/談判",
+  "source": "File:Better-call-saul-episode-205-mike-banks-2-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "hector_02.webp",
+  "desc": "Hector坐輪椅，室內",
+  "suits": "輪椅/家族",
+  "source": "File:Better-call-saul-episode-409-hector-margolis-3-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "house_01.webp",
+  "desc": "兩個男人喺民居前，日光",
+  "suits": "住宅區/拜訪",
+  "source": "File:BCS 303 04.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "chuck_02.webp",
+  "desc": "Chuck喺屋內燈下工作",
+  "suits": "Chuck屋/孤僻",
+  "source": "File:Better-call-saul-episode-101-chuck-mckean-sized-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "fran_01.webp",
+  "desc": "Francesca喺辦公室接待處，微笑",
+  "suits": "律師樓/前台",
+  "source": "File:Better-call-saul-episode-302-francesca-parker-935.jpg",
+  "width": 640,
+  "height": 450
+ },
+ {
+  "file": "acker_01.webp",
+  "desc": "Acker屋旁有挖土機同工人",
+  "suits": "Acker屋/拆遷",
+  "source": "File:BCS 505 06.png",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "acker_02.webp",
+  "desc": "Acker屋附近荒地，已劃地盤",
+  "suits": "荒地/發展",
+  "source": "File:Acker Residence.jpg",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "desert_01.webp",
+  "desc": "沙漠中嘅車，荒涼",
+  "suits": "沙漠/意外",
+  "source": "File:BCS 309 16.png",
+  "width": 640,
+  "height": 400
+ },
+ {
+  "file": "desert_02.webp",
+  "desc": "空曠沙漠",
+  "suits": "沙漠/轉場",
+  "source": "File:BCS 102 04.jpg",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "city_01.webp",
+  "desc": "Albuquerque磚屋建築外觀，晴天",
+  "suits": "城市/轉場",
+  "source": "File:BCS 208 13.jpg",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "hhm_01.webp",
+  "desc": "HHM會議室，大枱",
+  "suits": "律師樓/會議",
+  "source": "File:BCS 101 06.jpg",
+  "width": 640,
+  "height": 360
+ },
+ {
+  "file": "hhm_02.webp",
+  "desc": "HHM大堂樓梯旁",
+  "suits": "律師樓/大堂",
+  "source": "File:Better-call-saul-first-look-gilligan-saul-odenkirk-935.jpg",
+  "width": 640,
+  "height": 450
+ }
+]
